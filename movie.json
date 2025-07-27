@@ -1,13 +1,22 @@
-[
-  {
-    "name": "Inception",
-    "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt",
-    "desc": "A thief who steals corporate secrets...",
-    "genre": "Sci-Fi",
-    "image_url": "https://example.com/inception.jpg",
-    "thumb_url": "https://example.com/inception_thumb.jpg",
-    "imdb_url": "https://www.imdb.com/title/tt1375666/",
-    "rating": 8.8,
-    "year": 2010
-  }
-]
+{
+  "name": "Yôjinbô",
+  "actors": [
+    "Toshirô Mifune",
+    "Eijirô Tôno",
+    "Tatsuya Nakadai"
+  ],
+  "desc": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+  "directors": [
+    "Akira Kurosawa"
+  ],
+  "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "image_url": "https://m.media-amazon.com/images/M/MV5BzThizjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjxkEyXkFqcGdeQxVyNTA4NzY1MzYe._v1_.jpg",
+  "thumb_url": "https://m.media-amazon.com/images/_QL50.jpg",
+  "imdb_url": "/title/tt0055630/",
+  "rating": 8.2,
+  "year": 1961
+}
